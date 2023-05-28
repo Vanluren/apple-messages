@@ -18,10 +18,14 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.52.1"
+    "@raycast/api": "^1.52.1",
+    "better-sqlite3": "^8.4.0",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
+    "@types/better-sqlite3": "^7.6.4",
+    "@types/lodash": "^4.14.195",
     "@types/node": "18.8.3",
     "@types/react": "18.0.9",
     "eslint": "^7.32.0",
