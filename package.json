@@ -3,7 +3,7 @@
   "name": "apple-messages",
   "title": "Apple Messages",
   "description": "Interact with Apple Messages in Raycast",
-  "icon": "command-icon.png",
+  "icon": "icon.png",
   "author": "Vanluren",
   "categories": [
     "Communication"
@@ -13,7 +13,7 @@
     {
       "name": "index",
       "title": "Show Messages",
-      "description": "",
+      "description": "Show your Apple Messages",
       "mode": "view"
     }
   ],
